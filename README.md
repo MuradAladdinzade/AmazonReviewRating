@@ -1,6 +1,4 @@
-# Write README.md file content in a notebook cell
-
-readme = """# AmazonReviewRating
+# Amazon Review Rating Prediction
 
 Predicts Amazon product review star-ratings using PySpark, Word2Vec embeddings, and classical ML models on Azure Databricks.
 
