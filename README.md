@@ -1,6 +1,6 @@
 # Amazon Review Rating Prediction
 
-Predicts Amazon product review star-ratings using PySpark, Word2Vec embeddings, and classical ML models on Azure Databricks.
+Predicted Amazon product review star-ratings using PySpark, Word2Vec embeddings, and classical ML models on Azure Databricks.
 
 ## 🚀 Features
 - Generates Word2Vec embeddings of review text at scale using PySpark
